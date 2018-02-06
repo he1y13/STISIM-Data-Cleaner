@@ -1,0 +1,13 @@
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\bin\Release\STISIM Data cleaner.exe.config
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\bin\Release\STISIM Data cleaner.exe
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\bin\Release\STISIM Data cleaner.pdb
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\MainWindow.baml
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\MainWindow.g.cs
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\App.g.cs
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM Data cleaner_MarkupCompile.cache
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM Data cleaner.g.resources
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM_Data_cleaner.Properties.Resources.resources
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM Data cleaner.csproj.GenerateResource.Cache
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM Data cleaner.exe
+c:\users\he1y13\documents\visual studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM Data cleaner.pdb
+C:\Users\he1y13\Documents\Visual Studio 2013\Projects\STISIM Data cleaner\STISIM Data cleaner\obj\Release\STISIM Data cleaner.csprojResolveAssemblyReference.cache
